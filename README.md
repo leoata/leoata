@@ -37,6 +37,9 @@
   <a href="#"><img alt="leoata's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leoata&show_icons=true&count_private=true&hide=" /></a> 
   <a href="#"><img alt="leoata's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoata&langs_count=10&layout=compact#" /></a>
 </p>
+<p align="left">
+    <img src="https://github.com/leoata/leoata/blob/master/images/stat.svg" alt="leoata WakaTime Activity"/>
+</p>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/leoata?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
