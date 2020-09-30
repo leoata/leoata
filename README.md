@@ -34,7 +34,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="#"><img alt="leoata's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leoata&show_icons=true&count_private=true&hide=" /></a> 
+  <a href="#"><img alt="leoata's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leoata&count_private=true&show_icons=true&theme=cobalt" /></a> 
   <a href="#"><img alt="leoata's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoata&langs_count=10&layout=compact#" /></a>
 </p>
 <p align="left">
