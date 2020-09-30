@@ -12,6 +12,7 @@
 * 💻 I'm an aspiring backend developer
 * 🏙️ I live in Charlotte, North Carolina
 * 🏫 I go to the North Carolina School of Science and Mathematics
+* 🔒 99% of my projects/repos are privated or proprietary
 
 
 ## 👨‍💻 Languages and Tools:
