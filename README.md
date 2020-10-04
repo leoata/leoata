@@ -18,7 +18,13 @@
 ## 👨‍💻 Languages and Tools:
 
 <a href="#"><img alt="Java" title="Java" height="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a>
+<a href="#"><img alt="JavaScript" title="JavaScript" height="28px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-24-1174950.png" /></a>
+<a href="#"><img alt="TypeScript" title="TypeScript" height="28px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" /></a>
+<a href="#"><img alt="React" title="React" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/></a>
+<a href="#"><img alt="NodeJS" title="NodeJS" height="28px" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" /></a>
+
 <a href="#"><img alt="C#" title="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a>
+<a href="#"><img alt=".NET" title=".NET" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png" /></a>
 <a href="#"><img alt="C++" title="C++" height="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
 <a href="#"><img alt="Rust" title="Rust" height="28px" src="https://www.rust-lang.org/static/images/rust-social.jpg" /></a>
 <a href="#"><img alt="Python" title="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
