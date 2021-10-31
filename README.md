@@ -12,8 +12,7 @@
 * 💻 I'm an aspiring backend developer
 * 🏙️ I live in Charlotte, North Carolina
 * 🏫 I go to the North Carolina School of Science and Mathematics
-* 🔒 99% of my projects/repos are privated or proprietary
-* I am a <a href="https://leftvalues.github.io/results.html?a=89.7&b=76.6&c=53.3&d=57.1&e=36.5&f=47.2&g=22.1">Council Communist</a>
+* 🔒 Many of my projects/repos are privated or proprietary
 
 
 ## 👨‍💻 Languages and Tools:
