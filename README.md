@@ -1,5 +1,5 @@
 ## Hey! I'm Leonardo Atalla
-🎓 I am a Computer Science student at the University of North Carolina @ Chapel Hill. 
+🎓 I am a Computer Science & Statistics, Analytics student at the University of North Carolina @ Chapel Hill. 
 
 📧 Email me at [leonardo@atalla.org](mailto:leonardo@atalla.org) for personal inquiries, [leonardo@mirasoft.us](mailto:leonardo@mirasoft.us) for business inquiries, or [leoata@unc.edu](mailto:leoata@unc.edu). 
 
